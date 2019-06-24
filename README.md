@@ -7,7 +7,7 @@ Sentiment Analysis is the process of computationally identifying and categorizin
 especially in order to determine whether the writer's attitude towards a particular topic, product, etc. is positive, negative or neutral.
 
 Random Forest Classifier used for prediction
-Model Accuracy = 84.92063492063492
+Model Accuracy =  85.185185185185192
 
 Data set is available on kaggle. it is scrapped from Yahoo finance from 2000 to 2008 and 2008 to 2016
 Labels are based on dow jones industrial average stock index
